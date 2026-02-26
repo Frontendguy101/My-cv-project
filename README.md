@@ -1,1 +1,1 @@
-Designed my higschool cv with html and css
+Designed my highschool cv with html and css
