@@ -1,0 +1,27 @@
+body {
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 17px;
+}
+
+hr {
+    border: 1px solid;
+    width: 500px;
+    margin-left: 10px
+    
+}
+ 
+h1 {
+    font-weight: 100px;
+}
+.front-end {
+    color:rgb(22, 163, 74);
+}
+
+address {
+    font-style: normal;
+}
+.header {
+    color:rgb(22, 163, 74);
+} ;
